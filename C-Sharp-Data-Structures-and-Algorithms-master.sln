@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter02", "Chapter02", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMap", "Chapter02\GameMap\GameMap.csproj", "{13BF21EC-0ECE-43FB-B355-3491F51575EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearlyTransportPlan", "Chapter02\YearlyTransportPlan\YearlyTransportPlan.csproj", "{156324C0-2E66-43A1-9664-3EFE1860A07D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{13BF21EC-0ECE-43FB-B355-3491F51575EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13BF21EC-0ECE-43FB-B355-3491F51575EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13BF21EC-0ECE-43FB-B355-3491F51575EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156324C0-2E66-43A1-9664-3EFE1860A07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156324C0-2E66-43A1-9664-3EFE1860A07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156324C0-2E66-43A1-9664-3EFE1860A07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156324C0-2E66-43A1-9664-3EFE1860A07D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{13BF21EC-0ECE-43FB-B355-3491F51575EE} = {81ACBA6B-5948-4F0B-80D9-F0B46CAC8CFD}
+		{156324C0-2E66-43A1-9664-3EFE1860A07D} = {81ACBA6B-5948-4F0B-80D9-F0B46CAC8CFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {630666B0-6194-4E63-A81D-17D4DF6A090F}
